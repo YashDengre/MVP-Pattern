@@ -1,0 +1,5 @@
+C:\Users\ydengre\Desktop\MVPApp_Sample\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ydengre\Desktop\MVPApp_Sample\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\ydengre\Desktop\MVPApp_Sample\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\ydengre\Desktop\MVPApp_Sample\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\ydengre\Desktop\MVPApp_Sample\DomainLayer\obj\Debug\DomainLayer.pdb

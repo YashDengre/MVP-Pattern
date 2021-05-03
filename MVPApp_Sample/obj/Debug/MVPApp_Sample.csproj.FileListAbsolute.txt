@@ -1,0 +1,8 @@
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\bin\Debug\MVPApp_Sample.exe.config
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\bin\Debug\MVPApp_Sample.exe
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\bin\Debug\MVPApp_Sample.pdb
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\obj\Debug\MVPApp_Sample.Properties.Resources.resources
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\obj\Debug\MVPApp_Sample.csproj.GenerateResource.cache
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\obj\Debug\MVPApp_Sample.csproj.CoreCompileInputs.cache
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\obj\Debug\MVPApp_Sample.exe
+C:\Users\ydengre\Desktop\MVPApp_Sample\MVPApp_Sample\obj\Debug\MVPApp_Sample.pdb
